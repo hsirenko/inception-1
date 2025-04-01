@@ -129,9 +129,9 @@ CMD	[ "php", "-S", "[::]:8080", "-t", "/var/www" ]
 Мы получим следующий вывод:
 
 ```
-DOMAIN_NAME=jleslee.42.fr
-CERT_=./requirements/tools/jleslee.42.fr
-KEY_=./requirements/tools/jleslee.42.fr
+DOMAIN_NAME=hsirenko.42.fr
+CERT_=./requirements/tools/hsirenko.42.fr
+KEY_=./requirements/tools/hsirenko.42.fr
 DB_NAME=wordpress
 DB_ROOT=rootpass
 DB_USER=wpuser
